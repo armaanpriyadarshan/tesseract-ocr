@@ -5,5 +5,5 @@
   <img src="Cartridge.png">
 </p>
  
- **A video demonstration and instructions on using can be found in my YouTube video here:
- [![Link to my vid](https://github.com/armaanpriyadarshan/tesseract-ocr/)](https://www.youtube.com/watch?v=ko69CgE1lOo&t=204s)
+ **A video demonstration and instructions on using can be found in my YouTube video here:**
+ [![Link to my vid](https://github.com/armaanpriyadarshan/tesseract-ocr/blob/main/doc/thumbnail.png)](https://www.youtube.com/watch?v=ko69CgE1lOo&t=204s)
